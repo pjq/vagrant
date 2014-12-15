@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/pengjianqing/vagrant/ubuntu64"},"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"/Users/pengjianqing/webrtc"},"/downloads":{"guestpath":"/downloads","hostpath":"/Users/pengjianqing/Downloads"}}}
